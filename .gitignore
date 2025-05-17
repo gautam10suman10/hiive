@@ -1,0 +1,10 @@
+# Local .terraform directories
+**/.terraform/*
+**/.terragrunt-cache/*
+.terraform.lock*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*.tfvars.json
+.terraformrc
